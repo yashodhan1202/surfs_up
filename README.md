@@ -4,7 +4,7 @@
 The investor W. Avy has liked the previous analysis done on the precipitation levels but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. In order to complete the analysis we had to filter out the hawaii.sqlite database for the months of June and December
 
 ## Results ##
-
+![image](https://github.com/yashodhan1202/surfs_up/blob/main/June_Temps.png)![Image](https://github.com/yashodhan1202/surfs_up/blob/main/Dec_Temps.png)
 
 
 1) All the statistics for June are slightly higher than the statistics of December
